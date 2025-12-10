@@ -1,0 +1,947 @@
+[
+  {
+    "nom": "Zidane",
+    "note": 93,
+    "poste": "MILIEU",
+    "nationalite": "FRA",
+    "legende": true
+  },
+  {
+    "nom": "Platini",
+    "note": 92,
+    "poste": "MILIEU",
+    "nationalite": "FRA",
+    "legende": true
+  },
+  {
+    "nom": "Mbappé",
+    "note": 89,
+    "poste": "ATTAQUANT",
+    "nationalite": "FRA",
+    "legende": false
+  },
+  {
+    "nom": "Varane",
+    "note": 85,
+    "poste": "DEFENSEUR",
+    "nationalite": "FRA",
+    "legende": false
+  },
+  {
+    "nom": "Pogba",
+    "note": 88,
+    "poste": "MILIEU",
+    "nationalite": "FRA",
+    "legende": false
+  },
+  {
+    "nom": "Kanté",
+    "note": 88,
+    "poste": "MILIEU",
+    "nationalite": "FRA",
+    "legende": false
+  },
+  {
+    "nom": "Benzema",
+    "note": 88,
+    "poste": "ATTAQUANT",
+    "nationalite": "FRA",
+    "legende": false
+  },
+  {
+    "nom": "Cherki",
+    "note": 81,
+    "poste": "MILIEU",
+    "nationalite": "FRA",
+    "legende": false
+  },
+  {
+    "nom": "Dembélé",
+    "note": 85,
+    "poste": "ATTAQUANT",
+    "nationalite": "FRA",
+    "legende": false
+  },
+  {
+    "nom": "Doue",
+    "note": 81,
+    "poste": "ATTAQUANT",
+    "nationalite": "FRA",
+    "legende": false
+  },
+  {
+    "nom": "Griezmann",
+    "note": 88,
+    "poste": "ATTAQUANT",
+    "nationalite": "FRA",
+    "legende": false
+  },
+  {
+    "nom": "Saliba",
+    "note": 84,
+    "poste": "DEFENSEUR",
+    "nationalite": "FRA",
+    "legende": false
+  },
+  {
+    "nom": "Maignan",
+    "note": 85,
+    "poste": "GARDIEN",
+    "nationalite": "FRA",
+    "legende": false
+  },
+  
+  {
+    "nom": "Pelé",
+    "note": 95,
+    "poste": "ATTAQUANT",
+    "nationalite": "BRE",
+    "legende": true
+  },
+  {
+    "nom": "Ronaldo",
+    "note": 94,
+    "poste": "ATTAQUANT",
+    "nationalite": "BRE",
+    "legende": true
+  },
+  {
+    "nom": "Neymar",
+    "note": 89,
+    "poste": "ATTAQUANT",
+    "nationalite": "BRE",
+    "legende": false
+  },
+  {
+    "nom": "Vinícius",
+    "note": 88,
+    "poste": "ATTAQUANT",
+    "nationalite": "BRE",
+    "legende": false
+  },
+  {
+    "nom": "Casemiro",
+    "note": 85,
+    "poste": "MILIEU",
+    "nationalite": "BRE",
+    "legende": false
+  },
+  {
+    "nom": "Marquinhos",
+    "note": 86,
+    "poste": "DEFENSEUR",
+    "nationalite": "BRE",
+    "legende": false
+  },
+  {
+    "nom": "Alisson",
+    "note": 85,
+    "poste": "GARDIEN",
+    "nationalite": "BRE",
+    "legende": false
+  },
+  {
+    "nom": "Endrick",
+    "note": 80,
+    "poste": "ATTAQUANT",
+    "nationalite": "BRE",
+    "legende": false
+  },
+  {
+    "nom": "Guimarães",
+    "note": 83,
+    "poste": "MILIEU",
+    "nationalite": "BRE",
+    "legende": false
+  },
+  {
+    "nom": "Raphinha",
+    "note": 84,
+    "poste": "ATTAQUANT",
+    "nationalite": "BRE",
+    "legende": false
+  },
+  {
+    "nom": "André Santos",
+    "note": 80,
+    "poste": "MILIEU",
+    "nationalite": "BRE",
+    "legende": false
+  },
+
+  {
+    "nom": "Maradona",
+    "note": 95,
+    "poste": "ATTAQUANT",
+    "nationalite": "ARG",
+    "legende": true
+  },
+  {
+    "nom": "Messi",
+    "note": 92,
+    "poste": "ATTAQUANT",
+    "nationalite": "ARG",
+    "legende": false
+  },
+  {
+    "nom": "Di María",
+    "note": 86,
+    "poste": "ATTAQUANT",
+    "nationalite": "ARG",
+    "legende": false
+  },
+  {
+    "nom": "De Paul",
+    "note": 84,
+    "poste": "MILIEU",
+    "nationalite": "ARG",
+    "legende": false
+  },
+  {
+    "nom": "Otamendi",
+    "note": 82,
+    "poste": "DEFENSEUR",
+    "nationalite": "ARG",
+    "legende": false
+  },
+  {
+    "nom": "Mac Allister",
+    "note": 84,
+    "poste": "MILIEU",
+    "nationalite": "ARG",
+    "legende": false
+  },
+  {
+    "nom": "Paredes",
+    "note": 81,
+    "poste": "MILIEU",
+    "nationalite": "ARG",
+    "legende": false
+  },
+  {
+    "nom": "Garnacho",
+    "note": 80,
+    "poste": "ATTAQUANT",
+    "nationalite": "ARG",
+    "legende": false
+  },
+
+  {
+    "nom": "Iniesta",
+    "note": 90,
+    "poste": "MILIEU",
+    "nationalite": "ESP",
+    "legende": true
+  },
+  {
+    "nom": "Xavi",
+    "note": 90,
+    "poste": "MILIEU",
+    "nationalite": "ESP",
+    "legende": true
+  },
+  {
+    "nom": "Sergio Ramos",
+    "note": 88,
+    "poste": "DEFENSEUR",
+    "nationalite": "ESP",
+    "legende": false
+  },
+  {
+    "nom": "Pedri",
+    "note": 85,
+    "poste": "MILIEU",
+    "nationalite": "ESP",
+    "legende": false
+  },
+  {
+    "nom": "Yamal",
+    "note": 84,
+    "poste": "ATTAQUANT",
+    "nationalite": "ESP",
+    "legende": false
+  },
+  {
+    "nom": "Zubimendi",
+    "note": 82,
+    "poste": "MILIEU",
+    "nationalite": "ESP",
+    "legende": false
+  },
+  {
+    "nom": "Asencio",
+    "note": 81,
+    "poste": "DEFENSEUR",
+    "nationalite": "ESP",
+    "legende": false
+  },
+  {
+    "nom": "Huijsen",
+    "note": 81,
+    "poste": "DEFENSEUR",
+    "nationalite": "ESP",
+    "legende": false
+  },
+  {
+    "nom": "Morata",
+    "note": 82,
+    "poste": "ATTAQUANT",
+    "nationalite": "ESP",
+    "legende": false
+  },
+  {
+    "nom": "De Gea",
+    "note": 84,
+    "poste": "GARDIEN",
+    "nationalite": "ESP",
+    "legende": false
+  },
+  {
+    "nom": "Rodri",
+    "note": 86,
+    "poste": "MILIEU",
+    "nationalite": "ESP",
+    "legende": false
+  },
+  {
+    "nom": "Isco",
+    "note": 82,
+    "poste": "MILIEU",
+    "nationalite": "ESP",
+    "legende": false
+  },
+
+  {
+    "nom": "Matthäus",
+    "note": 90,
+    "poste": "MILIEU",
+    "nationalite": "ALL",
+    "legende": true
+  },
+  {
+    "nom": "Neuer",
+    "note": 88,
+    "poste": "GARDIEN",
+    "nationalite": "ALL",
+    "legende": false
+  },
+  {
+    "nom": "Wirtz",
+    "note": 86,
+    "poste": "MILIEU",
+    "nationalite": "ALL",
+    "legende": false
+  },
+  {
+    "nom": "Musiala",
+    "note": 86,
+    "poste": "MILIEU",
+    "nationalite": "ALL",
+    "legende": false
+  },
+  {
+    "nom": "Kimmich",
+    "note": 87,
+    "poste": "DEFENSEUR",
+    "nationalite": "ALL",
+    "legende": false
+  },
+  {
+    "nom": "Rüdiger",
+    "note": 84,
+    "poste": "DEFENSEUR",
+    "nationalite": "ALL",
+    "legende": false
+  },
+  {
+    "nom": "Thomas Müller",
+    "note": 85,
+    "poste": "ATTAQUANT",
+    "nationalite": "ALL",
+    "legende": false
+  },
+  {
+    "nom": "Gündogan",
+    "note": 84,
+    "poste": "MILIEU",
+    "nationalite": "ALL",
+    "legende": false
+  },
+
+  {
+    "nom": "Beckham",
+    "note": 89,
+    "poste": "MILIEU",
+    "nationalite": "ANG",
+    "legende": true
+  },
+  {
+    "nom": "Kane",
+    "note": 88,
+    "poste": "ATTAQUANT",
+    "nationalite": "ANG",
+    "legende": false
+  },
+  {
+    "nom": "Jude Bellingham",
+    "note": 87,
+    "poste": "MILIEU",
+    "nationalite": "ANG",
+    "legende": false
+  },
+  {
+    "nom": "Rice",
+    "note": 85,
+    "poste": "MILIEU",
+    "nationalite": "ANG",
+    "legende": false
+  },
+  {
+    "nom": "Saka",
+    "note": 84,
+    "poste": "ATTAQUANT",
+    "nationalite": "ANG",
+    "legende": false
+  },
+  {
+    "nom": "Palmer",
+    "note": 83,
+    "poste": "MILIEU",
+    "nationalite": "ANG",
+    "legende": false
+  },
+  {
+    "nom": "Rashford",
+    "note": 81,
+    "poste": "ATTAQUANT",
+    "nationalite": "ANG",
+    "legende": false
+  },
+  {
+    "nom": "Foden",
+    "note": 82,
+    "poste": "ATTAQUANT",
+    "nationalite": "ANG",
+    "legende": false
+  },
+  {
+    "nom": "Maguire",
+    "note": 80,
+    "poste": "DEFENSEUR",
+    "nationalite": "ANG",
+    "legende": false
+  },
+  {
+    "nom": "Walker",
+    "note": 81,
+    "poste": "DEFENSEUR",
+    "nationalite": "ANG",
+    "legende": false
+  },
+  {
+    "nom": "Pickford",
+    "note": 82,
+    "poste": "GARDIEN",
+    "nationalite": "ANG",
+    "legende": false
+  },
+
+  {
+    "nom": "Buffon",
+    "note": 91,
+    "poste": "GARDIEN",
+    "nationalite": "ITA",
+    "legende": true
+  },
+  {
+    "nom": "Maldini",
+    "note": 92,
+    "poste": "DEFENSEUR",
+    "nationalite": "ITA",
+    "legende": true
+  },
+  {
+    "nom": "Verratti",
+    "note": 84,
+    "poste": "MILIEU",
+    "nationalite": "ITA",
+    "legende": false
+  },
+  {
+    "nom": "Barella",
+    "note": 83,
+    "poste": "MILIEU",
+    "nationalite": "ITA",
+    "legende": false
+  },
+  {
+    "nom": "Donnarumma",
+    "note": 87,
+    "poste": "GARDIEN",
+    "nationalite": "ITA",
+    "legende": false
+  },
+  {
+    "nom": "Tonali",
+    "note": 83,
+    "poste": "MILIEU",
+    "nationalite": "ITA",
+    "legende": false
+  },
+  {
+    "nom": "Bastoni",
+    "note": 84,
+    "poste": "DEFENSEUR",
+    "nationalite": "ITA",
+    "legende": false
+  },
+  {
+    "nom": "Jorginho",
+    "note": 82,
+    "poste": "MILIEU",
+    "nationalite": "ITA",
+    "legende": false
+  },
+  {
+    "nom": "Chicharito",
+    "note": 80,
+    "poste": "ATTAQUANT",
+    "nationalite": "MEX",
+    "legende": false
+  },
+  {
+    "nom": "Ochoa",
+    "note": 79,
+    "poste": "GARDIEN",
+    "nationalite": "MEX",
+    "legende": false
+  },
+  {
+    "nom": "Lozano",
+    "note": 79,
+    "poste": "ATTAQUANT",
+    "nationalite": "MEX",
+    "legende": false
+  },
+  {
+    "nom": "Jiménez",
+    "note": 79,
+    "poste": "ATTAQUANT",
+    "nationalite": "MEX",
+    "legende": false
+  },
+  {
+    "nom": "Hazard",
+    "note": 89,
+    "poste": "ATTAQUANT",
+    "nationalite": "BEL",
+    "legende": true
+  },
+  {
+    "nom": "De Bruyne",
+    "note": 88,
+    "poste": "MILIEU",
+    "nationalite": "BEL",
+    "legende": false
+  },
+  {
+    "nom": "Courtois",
+    "note": 88,
+    "poste": "GARDIEN",
+    "nationalite": "BEL",
+    "legende": false
+  },
+  {
+    "nom": "Lukaku",
+    "note": 83,
+    "poste": "ATTAQUANT",
+    "nationalite": "BEL",
+    "legende": false
+  },
+  {
+    "nom": "Meunier",
+    "note": 79,
+    "poste": "DEFENSEUR",
+    "nationalite": "BEL",
+    "legende": false
+  },
+  {
+    "nom": "Eusébio",
+    "note": 91,
+    "poste": "ATTAQUANT",
+    "nationalite": "POR",
+    "legende": true
+  },
+  {
+    "nom": "Ronaldo",
+    "note": 92,
+    "poste": "ATTAQUANT",
+    "nationalite": "POR",
+    "legende": false
+  },
+  {
+    "nom": "Pepe",
+    "note": 84,
+    "poste": "DEFENSEUR",
+    "nationalite": "POR",
+    "legende": false
+  },
+  {
+    "nom": "Fernandes",
+    "note": 85,
+    "poste": "MILIEU",
+    "nationalite": "POR",
+    "legende": false
+  },
+  {
+    "nom": "Vitinha",
+    "note": 84,
+    "poste": "MILIEU",
+    "nationalite": "POR",
+    "legende": false
+  },
+  {
+    "nom": "Mendes",
+    "note": 83,
+    "poste": "DEFENSEUR",
+    "nationalite": "POR",
+    "legende": false
+  },
+  {
+    "nom": "Leão",
+    "note": 84,
+    "poste": "ATTAQUANT",
+    "nationalite": "POR",
+    "legende": false
+  },
+  {
+    "nom": "Silva",
+    "note": 86,
+    "poste": "MILIEU",
+    "nationalite": "POR",
+    "legende": false
+  },
+  {
+    "nom": "Son",
+    "note": 85,
+    "poste": "ATTAQUANT",
+    "nationalite": "COR",
+    "legende": false
+  },
+  {
+    "nom": "Kang-in Lee",
+    "note": 79,
+    "poste": "MILIEU",
+    "nationalite": "COR",
+    "legende": false
+  },
+  {
+    "nom": "Kim Min-jae",
+    "note": 79,
+    "poste": "DEFENSEUR",
+    "nationalite": "COR",
+    "legende": false
+  },
+  {
+    "nom": "Hakimi",
+    "note": 84,
+    "poste": "DEFENSEUR",
+    "nationalite": "MAR",
+    "legende": false
+  },
+  {
+    "nom": "Diaz",
+    "note": 82,
+    "poste": "ATTAQUANT",
+    "nationalite": "MAR",
+    "legende": false
+  },
+  {
+    "nom": "Ziyech",
+    "note": 81,
+    "poste": "ATTAQUANT",
+    "nationalite": "MAR",
+    "legende": false
+  },
+  {
+    "nom": "Bounou",
+    "note": 82,
+    "poste": "GARDIEN",
+    "nationalite": "MAR",
+    "legende": false
+  },
+  {
+    "nom": "Boufal",
+    "note": 77,
+    "poste": "ATTAQUANT",
+    "nationalite": "MAR",
+    "legende": false
+  },
+  {
+    "nom": "Aït Nouri",
+    "note": 82,
+    "poste": "DEFENSEUR",
+    "nationalite": "ALG",
+    "legende": false
+  },
+  {
+    "nom": "Mahrez",
+    "note": 83,
+    "poste": "ATTAQUANT",
+    "nationalite": "ALG",
+    "legende": false
+  },
+  {
+    "nom": "Bensebaini",
+    "note": 79,
+    "poste": "DEFENSEUR",
+    "nationalite": "ALG",
+    "legende": false
+  },
+  {
+    "nom": "Bennacer",
+    "note": 80,
+    "poste": "MILIEU",
+    "nationalite": "ALG",
+    "legende": false
+  },
+  {
+    "nom": "Mané",
+    "note": 85,
+    "poste": "ATTAQUANT",
+    "nationalite": "SEN",
+    "legende": false
+  },
+  {
+    "nom": "Jackson",
+    "note": 79,
+    "poste": "ATTAQUANT",
+    "nationalite": "SEN",
+    "legende": false
+  },
+  {
+    "nom": "Koulibaly",
+    "note": 82,
+    "poste": "DEFENSEUR",
+    "nationalite": "SEN",
+    "legende": false
+  },
+  {
+    "nom": "Lewandowski",
+    "note": 88,
+    "poste": "ATTAQUANT",
+    "nationalite": "POL",
+    "legende": false
+  },
+  {
+    "nom": "Szczęsny",
+    "note": 82,
+    "poste": "GARDIEN",
+    "nationalite": "POL",
+    "legende": false
+  },
+  {
+    "nom": "Zieliński",
+    "note": 79,
+    "poste": "MILIEU",
+    "nationalite": "POL",
+    "legende": false
+  },
+  {
+    "nom": "Cruyff",
+    "note": 91,
+    "poste": "ATTAQUANT",
+    "nationalite": "PAY",
+    "legende": true
+  },
+  {
+    "nom": "Van Dijk",
+    "note": 88,
+    "poste": "DEFENSEUR",
+    "nationalite": "PAY",
+    "legende": false
+  },
+  {
+    "nom": "De Jong",
+    "note": 84,
+    "poste": "MILIEU",
+    "nationalite": "PAY",
+    "legende": false
+  },
+  {
+    "nom": "Depay",
+    "note": 82,
+    "poste": "ATTAQUANT",
+    "nationalite": "PAY",
+    "legende": false
+  },
+  {
+    "nom": "Frimpong",
+    "note": 82,
+    "poste": "DEFENSEUR",
+    "nationalite": "PAY",
+    "legende": false
+  },
+  {
+    "nom": "Simons",
+    "note": 81,
+    "poste": "MILIEU",
+    "nationalite": "PAY",
+    "legende": false
+  },
+  {
+    "nom": "Modrić",
+    "note": 88,
+    "poste": "MILIEU",
+    "nationalite": "CRO",
+    "legende": false
+  },
+  {
+    "nom": "Perišić",
+    "note": 83,
+    "poste": "ATTAQUANT",
+    "nationalite": "CRO",
+    "legende": false
+  },
+  {
+    "nom": "Gvardiol",
+    "note": 82,
+    "poste": "DEFENSEUR",
+    "nationalite": "CRO",
+    "legende": false
+  },
+  {
+    "nom": "Kovačić",
+    "note": 82,
+    "poste": "MILIEU",
+    "nationalite": "CRO",
+    "legende": false
+  },
+  {
+    "nom": "Haaland",
+    "note": 86,
+    "poste": "ATTAQUANT",
+    "nationalite": "NOR",
+    "legende": false
+  },
+  {
+    "nom": "Ødegaard",
+    "note": 84,
+    "poste": "MILIEU",
+    "nationalite": "NOR",
+    "legende": false
+  },
+  {
+    "nom": "Sørloth",
+    "note": 79,
+    "poste": "ATTAQUANT",
+    "nationalite": "NOR",
+    "legende": false
+  },
+  {
+    "nom": "Forlán",
+    "note": 89,
+    "poste": "ATTAQUANT",
+    "nationalite": "URU",
+    "legende": true
+  },
+  {
+    "nom": "Suárez",
+    "note": 86,
+    "poste": "ATTAQUANT",
+    "nationalite": "URU",
+    "legende": false
+  },
+  {
+    "nom": "Valverde",
+    "note": 85,
+    "poste": "MILIEU",
+    "nationalite": "URU",
+    "legende": false
+  },
+  {
+    "nom": "Cavani",
+    "note": 85,
+    "poste": "ATTAQUANT",
+    "nationalite": "URU",
+    "legende": false
+  },
+  {
+    "nom": "Araújo",
+    "note": 80,
+    "poste": "DEFENSEUR",
+    "nationalite": "URU",
+    "legende": false
+  },
+  {
+    "nom": "Rodríguez",
+    "note": 82,
+    "poste": "MILIEU",
+    "nationalite": "COL",
+    "legende": false
+  },
+  {
+    "nom": "Díaz",
+    "note": 81,
+    "poste": "ATTAQUANT",
+    "nationalite": "COL",
+    "legende": false
+  },
+  {
+    "nom": "Cuadrado",
+    "note": 80,
+    "poste": "DEFENSEUR",
+    "nationalite": "COL",
+    "legende": false
+  },
+  {
+    "nom": "Salah",
+    "note": 88,
+    "poste": "ATTAQUANT",
+    "nationalite": "EGY",
+    "legende": false
+  },
+  {
+    "nom": "Kubo",
+    "note": 79,
+    "poste": "ATTAQUANT",
+    "nationalite": "JAP",
+    "legende": false
+  },
+  {
+    "nom": "Mitoma",
+    "note": 79,
+    "poste": "ATTAQUANT",
+    "nationalite": "JAP",
+    "legende": false
+  },
+  {
+    "nom": "Minamino",
+    "note": 79,
+    "poste": "ATTAQUANT",
+    "nationalite": "JAP",
+    "legende": false
+  },
+  {
+    "nom": "Ibrahimović",
+    "note": 89,
+    "poste": "ATTAQUANT",
+    "nationalite": "SUE",
+    "legende": true
+  },
+  {
+    "nom": "Gyökeres",
+    "note": 81,
+    "poste": "ATTAQUANT",
+    "nationalite": "SUE",
+    "legende": false
+  },
+  {
+    "nom": "Isak",
+    "note": 81,
+    "poste": "ATTAQUANT",
+    "nationalite": "SUE",
+    "legende": false
+  }
+]
+

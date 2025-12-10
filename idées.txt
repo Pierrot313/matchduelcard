@@ -1,0 +1,26 @@
+carte bonus: 
+- espionnage : voir la main adverse
+- Vol : voir 2 cartes adverses mais pouvoir choisir parmi les 5 cartes adverses
+- boost : ajoute un bonus de +2 à la carte jouée lors de tour
+- joker : choisi le bonus qu'il souhaite parmi les 3 (ou vol du bonus adverse si joué en premier lors du même tour) 
+
+
+Fin de jeu :
+- Les 11 cartes les plus hautes
+- Sélection de 11 cartes par les joueurs : bonus selon sélection, limite de temps (1 min)
+	-> 2 icones ou moins : +5
+	-> seulement 4 nationalités : +5
+	-> 11 nationalités différentes : +5
+	-> formation 1343 : +5
+
+Une partie = Au meilleur des 5 manches
+Comptage des manches gagnées/perdues
+Cartes brillantes pour les légendes
+Lien sur les cartes vers vidéo de chaque joueur
+
+
+- problème lors de l'égalité : pas de possibilité de jouer le renfort alors que ça devrait être le cas
+- problème lors de l'utilisation du blocage : le bot peut quand même choisir une carte bloquée
+- problème lorsque l'on choisit de ne pas jouer un renfort : le joueur adverse peut quand même jouer le sien alors que ça devrait arrêter la manche ici
+- problème avec le renfort : le bot peut jouer deux cartes d'affilés, ce qui ne devrait pas être le cas
+- il est possible de jouer à la place du bot si on est rapide

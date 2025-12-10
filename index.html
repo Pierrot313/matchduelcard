@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Match Duel 11</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Match Duel 11</h1>
+
+  <div id="tour-info"></div>
+  <div id="tour-numero" style="margin-bottom: 15px; font-weight: bold;"></div>
+
+  <div id="main">
+    <!-- Zone du joueur 2 (haut de l'écran) -->
+    <div>
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
+        <div id="opponent-hand" class="hand"></div>
+        <div style="display: flex; flex-direction: column; align-items: flex-start; margin-left: 30px;">
+          <button id="btn-bonus-joueur2" onclick="utiliserCarteBonus('joueur2')">Utiliser carte bonus Joueur 1</button>
+          <div id="bonus-joueur2" class="bonus-cards" style="margin-top: 5px;"></div>
+        </div>
+      </div>
+      <div id="pile-joueur2" style="margin-top: 10px; font-weight: bold; color: #e74c3c;"></div>
+    </div>
+
+    <!-- Plateau de jeu -->
+    <div id="board">
+      <div id="played-cards"></div>
+    </div>
+
+    <!-- Zone du joueur 1 (bas de l'écran) -->
+    <div>
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;">
+        <div id="player-hand" class="hand"></div>
+        <div style="display: flex; flex-direction: column; align-items: flex-start; margin-left: 30px;">
+          <button id="btn-bonus-joueur1" onclick="utiliserCarteBonus('joueur1')">Utiliser carte bonus Joueur 2</button>
+          <div id="bonus-joueur1" class="bonus-cards" style="margin-top: 5px;"></div>
+        </div>
+      </div>
+      <div id="pile-joueur1" style="margin-top: 10px; font-weight: bold; color: #f39c12;"></div>
+    </div>
+  </div>
+
+  <!-- Résultat final -->
+  <div id="resultat-final" class="final-result" style="display: none; padding: 1em; border: 2px solid #333; margin-top: 20px;"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

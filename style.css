@@ -1,0 +1,169 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #2c3e50;
+  color: #ecf0f1;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+#tour-info {
+  margin-bottom: 15px;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+/* Container principal vertical */
+#game-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  height: 70vh; /* prend la hauteur restante */
+  width: 100%;
+  max-width: 900px;
+  gap: 30px;
+}
+
+/* Conteneurs mains */
+.hand-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+/* Mains */
+.hand {
+  display: flex;
+  gap: 12px;
+  min-width: 300px;
+  overflow-x: auto;
+  padding: 10px;
+  background: #34495e;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  user-select: none;
+}
+
+/* Le board (cartes jouées) au centre */
+.board-container {
+  width: 100%;
+  min-height: 140px;
+  background: #34495e;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#played-cards {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  user-select: none;
+}
+
+/* Cartes dans les mains */
+.card {
+  background: #ecf0f1;
+  color: #2c3e50;
+  border-radius: 6px;
+  padding: 10px;
+  width: 100px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  transition: transform 0.2s ease;
+  user-select: none;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.4);
+}
+
+/* Cartes jouées sélectionnées */
+.card.selected {
+  background: #f39c12;
+  color: #1c1c1c;
+  border: 2px solid #e67e22;
+  width: 110px;
+  box-shadow: 0 0 10px #e67e22;
+  cursor: default;
+  transform: scale(1.1);
+}
+
+/* Cartes bataille */
+.card.selected.battle-card {
+  background: #c0392b;
+  border: 2px solid #e74c3c;
+  color: #fceae9;
+  box-shadow: 0 0 14px #e74c3c;
+  transform: scale(1.15);
+  font-weight: bold;
+}
+
+/* Scroll bar légère pour les mains */
+.hand::-webkit-scrollbar {
+  height: 6px;
+}
+.hand::-webkit-scrollbar-track {
+  background: #2c3a47;
+  border-radius: 3px;
+}
+.hand::-webkit-scrollbar-thumb {
+  background: #7f8c8d;
+  border-radius: 3px;
+}
+
+/* Texte des cartes */
+.card strong {
+  font-size: 1.1em;
+}
+
+.card span {
+  font-size: 0.85em;
+  opacity: 0.85;
+}
+
+/* Responsive */
+@media (max-width: 700px) {
+  #game-container {
+    height: auto;
+    gap: 20px;
+  }
+
+  .hand {
+    min-width: 90%;
+    justify-content: center;
+  }
+
+  .board-container {
+    min-width: 90%;
+  }
+}
+
+.card-slot {
+  width: 120px;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
